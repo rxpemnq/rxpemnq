@@ -8,7 +8,7 @@
 ---
 
 - Worked on: LiveSklad
-- Pet-Projects: [Cars-And-Owners](https://github.com/rxpemnq/Cars-And-Owners-App), [AI-integrated project](https://github.com/rxpemnq/neuroweb_tz), [Vue.js developer card](https://github.com/rxpemnq/neuroweb_tz)
+- Pet-Projects: [Cars-And-Owners](https://github.com/rxpemnq/Cars-And-Owners-App), [AI-integrated project](https://github.com/rxpemnq/neuroweb_tz), [Vue.js developer card](https://github.com/rxpemnq/vue-developer-tz)
 - What am I doing right now:
   - learning frontend development (Vue 3) 🖥️
   - working on new backend app 🤖
